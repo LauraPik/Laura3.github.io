@@ -1,0 +1,65 @@
+header{
+    display:flex;
+}
+
+.main{
+    width: 100%;.
+    font-family: 'Roboto Mono', monospace;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+
+.logo1{
+    display: flex;
+    width: 30%;
+    padding-left: 60px; 
+}
+.nav{
+    width: 60%;
+    height: 70px;
+
+
+}
+.nav ul li{
+    list-style: none;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.nav ul li a{
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 62px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo2{
+  display: flex;
+  width: 10%;
+     
+}
+.menu p a{
+    display: flex;
+    padding: 50px;
+    list-style: none;
+   
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
